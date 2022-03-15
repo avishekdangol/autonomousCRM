@@ -1,0 +1,12 @@
+.login-box {
+  background-color: #e6e6e6;
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  padding-bottom: 140px;
+}
+.login-box img {
+  width: 120px;
+  opacity: 0.7;
+}
